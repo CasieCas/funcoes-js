@@ -1,2 +1,1 @@
-Leia me, por favor
-Não quero ler
+Desafios de funções para praticar javascript
