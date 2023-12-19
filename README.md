@@ -1,2 +1,2 @@
 Leia me, por favor
-Sim, quero ler
+Não quero ler
